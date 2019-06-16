@@ -1,0 +1,53 @@
+
+body {
+	nk href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">;
+font-family: 'Lobster', cursive;}
+
+
+/*hr {*/
+	max-width: 65px;
+	border-width: 3px;
+	border-color: #F05F44;
+/*}*/
+
+.faded {
+ 	color: rgba(255,255,255, 0.8);
+ }
+
+ header.startup {
+ 	background-position: center;
+ 	background-image: url(html/Images/screen.jpg);
+ 	background-size: cover;
+ 	height: 100%;
+ }
+
+ header.startup hr {
+ 	margin-top: 200px;
+ 	margin-bottom: 30px
+ }
+
+header.startup h1 {
+	font-size: 2rem
+}
+
+.btn {
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	font-family: 'montserrat', sans-serif;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.btn-primary {
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+
+.btn-primary:hover {
+background-color: #ee4b08
+border-color: #ee4b08 ;
+}
+
